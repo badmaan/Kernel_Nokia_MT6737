@@ -14,7 +14,7 @@
 #include <generated/autoconf.h>
 #include <dt-bindings/interrupt-controller/arm-gic.h>
 #include <dt-bindings/interrupt-controller/irq.h>
-#include "mt6735m-pinfunc.h"
+#include "mt6735-pinfunc.h"
 #include <dt-bindings/mmc/mt67xx-msdc.h>
 #ifdef CONFIG_MTK_DTBO_FEATURE
 #endif
